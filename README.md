@@ -1,6 +1,6 @@
 6.6 Praktikum\
 1.
-![image](
+![image](https://github.com/IsmedQalyubi/3.Tugas-Praktikum-python-III/blob/main/21.PNG) 
 2.
 ![image](
 3.
